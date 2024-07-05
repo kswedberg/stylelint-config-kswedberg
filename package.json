@@ -4,9 +4,7 @@
   "description": "Opinionated stylelint config",
   "type": "module",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [
     "css",
     "stylelint",
