@@ -1,5 +1,5 @@
 export default {
-  extends: ['stylelint-config-standard-scss', './basic.js'],
+  extends: ['stylelint-config-standard-scss', './basic.js', './stylistic.js'],
   overrides: [
     {
       files: ['**/*.scss'],
