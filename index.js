@@ -1,3 +1,3 @@
 export default {
-  extends: ['./basic.js'],
+  extends: ['stylelint-config-standard', './basic.js'],
 };
