@@ -3,7 +3,7 @@ export default {
     'alpha-value-notation': 'number',
     'at-rule-no-unknown': null,
     'color-function-notation': null,
-    'comment-empty-line-before': ['always', {ignore: ['after-comment']}],
+    'comment-empty-line-before': ['always', {except: ['first-nested'], ignore: ['after-comment']}],
     'declaration-block-no-duplicate-properties': [
       true,
       {ignore: ['consecutive-duplicates-with-different-syntaxes']},
