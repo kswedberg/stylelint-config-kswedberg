@@ -17,7 +17,7 @@ export default {
     '@stylistic/no-eol-whitespace': true,
     '@stylistic/no-extra-semicolons': true,
     '@stylistic/no-missing-end-of-source-newline': true,
-    '@stylistic/number-leading-zero': 'always',
+    '@stylistic/number-leading-zero': null,
     '@stylistic/number-no-trailing-zeros': true,
     '@stylistic/selector-attribute-brackets-space-inside': 'never',
     '@stylistic/selector-attribute-operator-space-after': 'never',
