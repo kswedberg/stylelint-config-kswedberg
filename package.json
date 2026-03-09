@@ -16,17 +16,17 @@
   "author": "Karl Swedberg",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^9.35.0",
-    "eslint-config-kswedberg": "^7.2.1"
+    "eslint": "^10.0.3",
+    "eslint-config-kswedberg": "^7.2.3"
   },
   "dependencies": {
-    "@stylistic/stylelint-plugin": "^4.0.0",
-    "postcss": "^8.5.6",
-    "postcss-html": "^1.8.0",
-    "stylelint": "^16.24.0",
-    "stylelint-config-recommended-scss": "^16.0.1",
+    "@stylistic/stylelint-plugin": "^5.0.1",
+    "postcss": "^8.5.8",
+    "postcss-html": "^1.8.1",
+    "stylelint": "^17.4.0",
+    "stylelint-config-recommended-scss": "^17.0.0",
     "stylelint-config-recommended-vue": "^1.6.1",
-    "stylelint-config-standard": "^39.0.0",
-    "stylelint-config-standard-scss": "^16.0.0"
+    "stylelint-config-standard": "^40.0.0",
+    "stylelint-config-standard-scss": "^17.0.0"
   }
 }
