@@ -15,6 +15,14 @@
   ],
   "author": "Karl Swedberg",
   "license": "MIT",
+  "homepage": "https://github.com/kswedberg/stylelint-config-kswedberg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kswedberg/stylelint-config-kswedberg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kswedberg/stylelint-config-kswedberg/issues"
+  },
   "devDependencies": {
     "eslint": "^10.0.3",
     "eslint-config-kswedberg": "^7.2.3"
