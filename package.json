@@ -1,6 +1,9 @@
 {
   "name": "stylelint-config-kswedberg",
   "version": "3.0.1",
+  "bugs": {
+    "url": "https://github.com/kswedberg/stylelint-config-kswedberg/issues"
+  },
   "description": "Opinionated stylelint config",
   "type": "module",
   "main": "index.js",
