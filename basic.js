@@ -1,7 +1,22 @@
 export default {
   rules: {
     'alpha-value-notation': 'number',
-    'at-rule-no-unknown': null,
+    'at-rule-no-unknown': [
+      true,
+      {
+        ignoreAtRules: [
+          'theme',
+          'apply',
+          'source',
+          'utility',
+          'variant',
+          'custom-variant',
+          'reference',
+          'plugin',
+        ],
+      },
+    ],
+    'at-rule-prelude-no-invalid': null,
     'color-function-alias-notation': null,
     'color-function-notation': null,
     'comment-empty-line-before': ['always', {except: ['first-nested'], ignore: ['after-comment']}],
